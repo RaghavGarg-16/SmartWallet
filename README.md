@@ -1,3 +1,5 @@
+## https://smarttokencontract.netlify.app/
+
 # This is my project for ETH Proof: Intermediate course module 2 by Metacrafters.
 
 - I have created a simple contract with some functions and then shown the values of those functions in frontend of the application which I got from the starter template provided by the Metacrafters.
